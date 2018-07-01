@@ -40,7 +40,7 @@ Use the outlining algorithm to mark up each of the following items, sans em dash
 — **Jean-Michel Basquiat**  
 — **Neville Brody**  
 — **Design**  
-— **Jan Tschicold**  
+— **Jan Tschichold**  
 — **Håkon Wium Lie**
 
 ## Quoting
