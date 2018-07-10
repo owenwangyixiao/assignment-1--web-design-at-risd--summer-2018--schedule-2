@@ -47,7 +47,7 @@ Use the outlining algorithm to mark up each of the following items, sans em dash
 Search online for quotes about — or by — four people listed above. You must provide a source for each quote. Place this content where you feel is most semantic. See MDN’s [blockqoute](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote) entry for ideas.
 
 ## Images
-[Search Creative Commons](https://search.creativecommons.org/) for images online of every person listed under the **Headings** section above. (You may only use images that are in the public domain or that are governed by a Creative Commons license.) Employ these in your project — either link directly to external URLs or place your images in the `img` folder.
+Once you’ve marked up the content under the **Headings** section, [search Creative Commons](https://search.creativecommons.org/) for images of *one* person per heading section. (You may only use images that are in the public domain or that are governed by a Creative Commons license.) Employ these in your project — either link directly to external URLs (for example, `<img src="http://www.site.com/image.jpg" alt="">`) or place your images in the `img` folder (for example, `<img src="img/image.jpg" alt="">`).
 
 Pay attention to image ratios, as these will inform your design. If need be, alter the images so they respect ratios you’ve chosen. See MDN’s [img](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img) for more.
 
